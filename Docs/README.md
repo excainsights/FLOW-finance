@@ -1,2 +1,2 @@
 # Docs
-* [FLOW finance - Quick Guide](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/excainsights/FLOW-finance/7cf4ac3adaa96bdd91d49247ae753f0c7d5308d6/Docs/FLOW-finance_QuickGuide_v1.0.pdf)
+* [FLOW finance - Quick Guide](https://docs.google.com/viewer?embedded=true&url=https://raw.githubusercontent.com/excainsights/FLOW-finance/8807ca6b5ef7eccc729eed1334be68954144e70d/Docs/FLOW-finance_QuickGuide.pdf)
